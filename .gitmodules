@@ -1,0 +1,12 @@
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/prudhvi-1729/product-service.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/prudhvi-1729/order-service.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = https://github.com/prudhvi-1729/inventory-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/prudhvi-1729/api-gateway-service.git
